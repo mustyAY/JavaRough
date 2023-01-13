@@ -29,3 +29,5 @@ const person = {firstname: "Mustapha", LastName: "Yahya"};
 const foods = ["Bread", "Yam", "Rice"];
 console.log(person)
 console.log(foods)
+
+//---------------
